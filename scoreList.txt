@@ -1,0 +1,30 @@
+deadly test game: -1
+user1: 3234424
+user2: 23424
+Adam: 2147483647
+Edward: -9663046.0
+Wojtek: 958507.0
+trojan horse: 1042478.0
+wojtek2: 1673071.0
+null: 795281.0
+Easy test 1 102days: 4000000.0
+Victory deadly 163days: 3996103.0
+loose dad: 2967543.0
+: 1914855.0
+: 2265134.0
+Victory 221dni: 4005005.0
+null: 3999999.0
+null: 0.0
+eaedsadsda: 0.0
+wojtek: 0.0
+: 0.0
+null: 0.0
+: 0.0
+: 0.0
+null: 0.0
+null: 0.0
+hgfhfh: 0.0
+: 0.0
+: 1490818.7086092716
+: 1377729.7025862068
+: 785710.256849315
